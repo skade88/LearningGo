@@ -12,3 +12,4 @@ First up is the Hello World tutorial on go.dev.
     https://go.dev/doc/tutorial/random-greeting
     https://go.dev/doc/tutorial/greetings-multiple-people
     https://go.dev/doc/tutorial/add-a-test
+    https://go.dev/doc/tutorial/compile-install
