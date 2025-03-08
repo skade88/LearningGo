@@ -5,9 +5,9 @@ I am working my way through Go tutorials over at https://go.dev/learn/#tutorials
 # Download Go Here:
     https://go.dev/dl/
 
-     <b>How to install Go From binary</b>
+     How to install Go From binary
         https://go.dev/doc/install
-     <b>How to install Go from source</b>
+     How to install Go from source
         https://go.dev/doc/install/source
 
 # Hello World tutorial
