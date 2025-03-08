@@ -2,6 +2,14 @@
 
 I am working my way through Go tutorials over at https://go.dev/learn/#tutorials. 
 
+# Download Go Here:
+    https://go.dev/dl/
+
+    # How to install Go From binary
+        https://go.dev/doc/install
+    # How to install Go from source
+        https://go.dev/doc/install/source
+
 # Hello World tutorial
 First up is the Hello World tutorial on go.dev.
     https://go.dev/doc/tutorial/getting-started
