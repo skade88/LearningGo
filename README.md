@@ -8,7 +8,7 @@ I am working my way through Go tutorials over at https://go.dev/learn/#tutorials
      How to install Go From binary
         https://go.dev/doc/install
      How to install Go from source
-        [https://go.dev/doc/install/source](https://go.dev/doc/install/source)
+        https://go.dev/doc/install/source
 
 # Hello World tutorial
 First up is the Hello World tutorial on go.dev.
